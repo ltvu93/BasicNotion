@@ -4,6 +4,8 @@ Class, Object, Type.
 
 Object, data structure.
 
+Interface, abstract class.
+
 Process, thread.
 
 Synchronous, Asynchronous.
