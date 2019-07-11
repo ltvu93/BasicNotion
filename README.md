@@ -21,3 +21,5 @@ Bussiness rule, bussiness logic.
 Domain logic, service, application logic.
 
 Inversion of control, Dependency injection, Service locator.
+
+UnitTest: Detroit style, London style, mock. 
