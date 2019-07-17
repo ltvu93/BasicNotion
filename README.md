@@ -28,4 +28,5 @@ Domain logic, service, application logic.
 
 Inversion of control, Dependency injection, Service locator.
 
-UnitTest: Detroit style, London style, mock, test implement, fake, stub.
+UnitTest: Detroit style (in-out) TDD, London style (out-in) BDD.
+Test Double: mock, fake, stub ...
