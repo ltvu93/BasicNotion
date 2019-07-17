@@ -6,7 +6,7 @@ Object, data structure.
 
 Statement, Expression.
 
-Argument Parameter
+Argument, Parameter
 
 Interface, abstract class.
 
