@@ -28,6 +28,9 @@ Domain logic, service, application logic.
 
 Inversion of control, Dependency injection, Service locator.
 
-UnitTest: Detroit style (in-out) TDD, London style (out-in) BDD.
+UnitTest: Detroit style (in-out) TDD, London style (out-in) BDD.  
+London style:  
+In Feature test only mock object you dont own.  
+In UnitTest class mock all collaborator, focus test behavior of current class.
 
 Test Double: mock, fake, stub ...
