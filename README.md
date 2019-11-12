@@ -10,7 +10,11 @@ Argument, Parameter
 
 Interface, abstract class.
 
-Process, thread.
+Program, Process, Thread, CPU Core.
+
+Multithread.
+
+Block, Non block thread.
 
 Synchronous, Asynchronous.
 
@@ -18,9 +22,9 @@ Concurrent, parallel.
 
 Coroutines.
 
-State management.
-
 Reactive.
+
+State management.
 
 Bussiness rule, bussiness logic.
 
