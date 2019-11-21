@@ -12,6 +12,8 @@ Interface, abstract class.
 
 Serializable, Parcelize.
 
+Reflection.
+
 Program, Process, Thread, CPU Core.
 
 Multithread.
