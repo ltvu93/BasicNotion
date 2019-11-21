@@ -10,6 +10,8 @@ Argument, Parameter
 
 Interface, abstract class.
 
+Serializable, Parcelize.
+
 Program, Process, Thread, CPU Core.
 
 Multithread.
