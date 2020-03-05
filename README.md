@@ -1,5 +1,7 @@
 # BasicNotion
 
+OOP vs funtional programing.
+
 Class, Object, Type.
 
 Object, data structure.
