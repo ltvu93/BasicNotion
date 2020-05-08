@@ -19,7 +19,7 @@ Serializable, Parcelize.
 
 Reflection.
 
-SOLID.
+SOLID Principles.
 
 Inversion of control, Dependency injection, Service locator.
 
