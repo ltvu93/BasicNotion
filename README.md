@@ -1,4 +1,5 @@
-# BasicNotion
+
+# Programing
 
 OOP vs funtional programing.
 
@@ -18,6 +19,16 @@ Serializable, Parcelize.
 
 Reflection.
 
+Inversion of control, Dependency injection, Service locator.
+
+# Domain & Bussiness
+
+Bussiness rule, bussiness logic.
+
+Domain logic, service, application logic.
+
+# Multithreading
+
 Program, Process, Thread, CPU Core.
 
 Multithread.
@@ -30,15 +41,17 @@ Concurrent, parallel.
 
 Coroutines.
 
+# State management.
+
 Reactive.
 
-State management.
+Unidirectional data flow.
 
-Bussiness rule, bussiness logic.
+State machine.
 
-Domain logic, service, application logic.
+Presentation pattern: MVC/MVP/MVVM/MVI/...
 
-Inversion of control, Dependency injection, Service locator.
+# Testing
 
 UnitTest: Detroit style (in-out) TDD, London style (out-in) BDD.  
 London style:  
