@@ -49,6 +49,8 @@ Unidirectional data flow. (Redux)
 
 State machine.
 
+Pure function, side effect.
+
 Presentation pattern: MVC/MVP/MVVM/MVI/Elm Architecture (MVU)/...
 
 # Testing
