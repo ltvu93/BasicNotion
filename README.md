@@ -19,6 +19,8 @@ Serializable, Parcelize.
 
 Reflection.
 
+SOLID.
+
 Inversion of control, Dependency injection, Service locator.
 
 # Domain & Bussiness
