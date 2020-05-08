@@ -45,11 +45,11 @@ Coroutines.
 
 Reactive.
 
-Unidirectional data flow.
+Unidirectional data flow. (Redux)
 
 State machine.
 
-Presentation pattern: MVC/MVP/MVVM/MVI/...
+Presentation pattern: MVC/MVP/MVVM/MVI/Elm Architecture (MVU)/...
 
 # Testing
 
